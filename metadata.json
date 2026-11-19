@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Asistente personal de voz en español de México con memoria persistente e interfaz de precisión.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
